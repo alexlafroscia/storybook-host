@@ -1,4 +1,3 @@
-import '../assets/css/normalize.css';
 import * as knobs from '@kadira/storybook-addon-knobs';
 
 export { knobs }
